@@ -6,6 +6,7 @@
 
 ### 1. Fundamentals of Systems & Software
 
+* **[What is a System?](file:///d:/Sad_Theory_01/What_is_System.md)**: An organized collection of interrelated and interdependent functional units working within a defined boundary to achieve a central objective (which takes priority over unit goals).
 * **[1.1 (1) SDLC (Software Development Life Cycle)](file:///d:/Sad_Theory_01/Week_01.md#L25-L34)**: A structured, phased framework (Planning, Analysis, Design, Implementation, Testing, Maintenance) used by analysts to systematically build and deliver reliable information systems.
 * **[1.1 (1) Prototyping Model](file:///d:/Sad_Theory_01/Week_01.md#L35-L49)**: An iterative development technique where early working models are rapidly built and evaluated with user feedback to clarify ambiguous requirements before full implementation.
 * **[1. (2) Types of Software](file:///d:/Sad_Theory_01/Week_01.md#L52-L66)**: Software categorized by architecture and purpose into System (OS/drivers), Application (Bespoke, COTS, Enterprise), Embedded (hardware-bound), and Web/Cloud platforms.
