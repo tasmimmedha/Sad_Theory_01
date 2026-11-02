@@ -2,6 +2,7 @@
 Here are all notes and techniques followed during the SAD Theory course.
 
 ## 📚 Study Materials
+* [What_is_System.md](file:///d:/Sad_Theory_01/What_is_System.md) — Foundational note defining systems, characteristics, elements, and classifications.
 * [Study_Overview.md](file:///d:/Sad_Theory_01/Study_Overview.md) — 1-line flash summaries for rapid Mid exam revision.
 * [Week_01.md](file:///d:/Sad_Theory_01/Week_01.md) — Comprehensive Mid study notes, tables, diagrams, and scenario analysis.
 
